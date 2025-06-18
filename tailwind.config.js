@@ -12,7 +12,17 @@ module.exports = {
       desktop: "1280px",
       laptopl: "1440px",
     },
-    extend: {},
+    extend: {
+      keyframes: {
+        scrollRight: {
+          "0%": { transform: "translateX(0)" },
+          "100%": { transform: "translateX(-50%)" }, 
+        },
+      },
+      animation: {
+        scrollRight: "scrollRight 30s linear infinite",
+      },
+    },
   },
   plugins: [],
 };
