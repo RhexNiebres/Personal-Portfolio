@@ -1,0 +1,179 @@
+{
+  "name": "Rhex Niebres",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Rhex Niebres ",
+  "headerTaglineThree": "Full Stack Web Developer",
+  "headerTaglineFour": " based in the Philippines",
+  "showCursor": false,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "headerImage": "/images/github.png",
+      "title": "RhexNiebres",
+      "link": "https://github.com/RhexNiebres"
+    },
+    {
+      "id": "2",
+      "headerImage": "/images/linkedin.png",
+      "title": "rhex-niebres",
+      "link": "https://www.linkedin.com/in/rhex-niebres-75a492326/"
+    },
+    {
+      "id": "3",
+      "headerImage": "/images/gmail.png",
+      "title": "rhexniebres@gmail.com",
+      "link": "mailto:rhexniebres@gmail.com"
+    },
+    {
+      "id": "4",
+      "headerImage": "/images/telephone.png",
+      "title": "09308485917"
+    }
+  ],
+  "projects": [
+    [
+      {
+        "id": "1",
+        "title": "Facetome",
+        "description": "Social Media Web Application",
+        "imageSrc": "https://res.cloudinary.com/ddbd0crv8/image/upload/e_sharpen:50/v1750144001/f_final_owdb1c.jpg",
+        "url": "https://facetome.netlify.app"
+      },
+      {
+        "id": "2",
+        "title": "Messagely",
+        "description": "Messaging Web Application",
+        "imageSrc": "https://res.cloudinary.com/ddbd0crv8/image/upload/v1750040648/messenger_ymjirf.jpg",
+        "url": "https://messagelyy.netlify.app"
+      },
+      {
+        "id": "3",
+        "title": "seekandspot (Where is Waldo) ",
+        "description": "A Photo Tagging Game Application",
+        "imageSrc": "https://res.cloudinary.com/ddbd0crv8/image/upload/v1750127974/wiw_final_qee0vv.jpg",
+        "url": "https://seekandspot.netlify.app"
+      }
+    ],
+    [
+      {
+        "id": "4",
+        "title": "Facetome",
+        "description": "Social Media Web Application",
+        "imageSrc": "https://res.cloudinary.com/ddbd0crv8/image/upload/e_sharpen:50/v1750144001/f_final_owdb1c.jpg",
+        "url": "https://facetome.netlify.app"
+      },
+      {
+        "id": "5",
+        "title": "Messagely",
+        "description": "Messaging Web Application",
+        "imageSrc": "https://res.cloudinary.com/ddbd0crv8/image/upload/v1750040648/messenger_ymjirf.jpg",
+        "url": "https://messagelyy.netlify.app"
+      },
+      {
+        "id": "6",
+        "title": "seekandspot (Where is Waldo) ",
+        "description": "A Photo Tagging Game Application",
+        "imageSrc": "https://res.cloudinary.com/ddbd0crv8/image/upload/v1750127974/wiw_final_qee0vv.jpg",
+        "url": "https://seekandspot.netlify.app"
+      }
+    ]
+  ],
+  "githubCarousel": [
+    {
+      "id": 1,
+      "image": "/github-project-1.png",
+      "url": "https://github.com/your-username/project-1"
+    },
+    {
+      "id": 2,
+      "image": "/github-project-2.png",
+      "url": "https://github.com/your-username/project-2"
+    },
+    {
+      "id": 3,
+      "image": "/github-project-3.png",
+      "url": "https://github.com/your-username/project-3"
+    }
+  ],
+
+  "services": [
+    {
+      "id": "2",
+      "title": "Frontend Development",
+      "description": "create fast, mobile-friendly user interfaces using React and Tailwind CSS. From static pages to dynamic experiences, I ensure your site looks great and performs smoothly on all devices."
+    },
+    {
+      "id": "3",
+      "title": "Backend Development",
+      "description": "build the behind-the-scenes parts of your website like servers, databases, and APIs—using Node.js, Express, and PostgreSQL. This makes sure your site runs smoothly and handles data the right way."
+    }
+  ],
+  "aboutpara": "Hi! I'm an aspiring junior web developer with a strong desire to grow, learn, and improve every day. I'm passionate about building meaningful projects that solve real problems and make a positive impact.\n\nRight now, I'm focused on gaining practical experience, improving my skills, and expanding my knowledge through real-world development. I'm eager to join a team where I can contribute, learn from others, and take on new challenges that help me become a better developer.\n\nI'm excited about the journey ahead and motivated to keep pushing forward as I build a career in web development.",
+  "resume": {
+    "tagline": "👋  I'm a Full Stack Web Developer.",
+    "description": "I build frontend and backend web applications using React, Tailwind CSS, PostgreSQL, Express, Node.js, and Prisma.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Bullet One, Bullet Two"
+      },
+      {
+        "id": "b746f9aa-7cf4-46a0-88c9-920acdb0d8dc",
+        "dates": "Enter Dates",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": ["Worked on the frontend of a React application"]
+      }
+    ],
+    "education": [
+      {
+        "id": "1",
+        "universityName": "Bachelor Degree in Food industry",
+        "universityDate": "2020 - 2024",
+        "universityPara": "OJT experience in hotel operations, restaurant service, and travel agency support."
+      },
+      {
+        "id": "2",
+        "universityName": "CS50 Graduate",
+        "universityDate": "Aug 2024 - Oct 2024",
+        "universityPara": "CS50 is Harvard’s Introduction to Computer Science course, focusing on problem-solving, algorithms, data structures, and foundational programming."
+      },
+      {
+        "id": "3",
+        "universityName": "The Odin Project",
+        "universityDate": "Nov 2024 - June 2025",
+        "universityPara": "Focused on HTML, CSS, JavaScript, Git, React, Node.js, Express, and PostgreSQL. Built full-stack projects and followed industry-standard development practices."
+      }
+    ],
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "React",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "REST APIs",
+      "PostgreSQL",
+      "Prisma ORM ",
+      "bcrypt (for password hashing)",
+      "JWT (for authentication)",
+      "Git & GitHub (version control, branches, PRs)",
+      "Visual Studio Code",
+      "Chrome DevTools",
+      "Deployment via Netlify, Supabase, Render, Railway",
+      "Project planning ",
+      "GitHub Pages (for static sites)",
+      "CRUD Operations"
+    ],
+    "frameworks": [],
+    "others": []
+  }
+}
