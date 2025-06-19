@@ -131,14 +131,7 @@ export default function Home() {
               </button>
             )}
 
-            {projectsExpanded && (
-              <button
-                onClick={handleHideProjects}
-                className="px-6 py-3 bg-violet-700 text-white rounded hover:bg-violet-800 transition"
-              >
-                Hide Projects
-              </button>
-            )}
+            
           </div>
 
           {!hasMoreProjects && (
@@ -164,7 +157,7 @@ export default function Home() {
                           <img
                             src={item.image}
                             alt={`GitHub project ${item.id}`}
-                            className="w-full h-64 object-cover"
+                            className="w-full h-60 object-contain"
                             loading="lazy"
                           />
                         </div>
@@ -175,6 +168,18 @@ export default function Home() {
               </a>
             </div>
           )}
+            <div className="flex justify-center mt-4">
+               {projectsExpanded && (
+              <button
+                onClick={handleHideProjects}
+                className="px-6 py-3 bg-violet-700 text-white rounded hover:bg-violet-800 transition"
+              >
+                Hide Projects
+              </button>
+            )}
+            </div>
+         
+
         </div>
 
         {/* Services Section */}
