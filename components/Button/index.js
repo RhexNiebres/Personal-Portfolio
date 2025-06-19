@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useTheme } from "next-themes";
 import data from "../../data/portfolio.json";
 
-const Button = ({ children, type, onClick, classes }) => {
+const Button = ({ children, type, onClick, className }) => {
   const { theme } = useTheme();
   const [mounted, setMounted] = useState(false);
 
@@ -23,7 +23,7 @@ const Button = ({ children, type, onClick, classes }) => {
             : "bg-black text-white shadow-2xl border-2 border-black"
         } transition-all duration-300 ease-out first:ml-0 hover:scale-105 active:scale-100 link ${
           data.showCursor ? "cursor-none" : ""
-        } ${classes}`}
+        } ${className}`}
       >
         {children}
       </button>
@@ -40,7 +40,7 @@ const Button = ({ children, type, onClick, classes }) => {
           : "hover:bg-slate-100 shadow-2xl border-2 border-black"
       } hover:scale-105 active:scale-100 tablet:first:ml-0 ${
         data.showCursor ? "cursor-none" : ""
-      } ${classes} link`}
+      } ${className} link`}
     >
       {children}
     </button>
