@@ -1,0 +1,179 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "skills": "Skills",
+    "work": "Work Experience",
+    "education": "Education",
+    "projects": "Projects"
+  },
+  "basics": {
+    "email": "rhexniebres@gmail.com",
+    "phone": "09308485917",
+    "name": "Rhex Christian R. Niebres",
+    "location": {
+      "address": "Phillipnes"
+    }
+  },
+  "education": [
+    {
+      "endDate": "Mar 2024",
+      "institution": "Pamantasan ng Lungsod ng Pasig",
+      "location": "Pasig, Philippines",
+      "startDate": "June 2020",
+      "studyType": "Bachelor Degree in Food industry"
+    },
+    {
+      "institution": "CS50 via edX",
+      "startDate": "Aug 2024",
+      "endDate": "Oct 2024",
+      "studyType": "CS50 is Harvard’s Introduction to Computer Science course, focusing on problem-solving, algorithms, data structures, and foundational programming.",
+      "location": "Harvard University – edX | Completed"
+    },
+    {
+      "institution": "The Odin Project ",
+      "startDate": "Nov 2024 ",
+      "endDate": "June 2025",
+      "studyType": "Focused on HTML, CSS, JavaScript, Git, React, Node.js, Express, and PostgreSQL. Built full-stack projects and followed industry-standard development practices.",
+      "location": "Online Program | Completed"
+    }
+  ],
+  "work": [
+    {
+      "position": "Operation Assistant",
+      "website": "",
+      "endDate": "Dec 2023",
+      "highlights": [
+        "Guided clients through form completion and documentation processes for new device requests",
+        "Maintained accurate logs of issued and returned devices to support inventory tracking and audit readiness",
+        "Provided front-line support by addressing customer inquiries and offering basic troubleshooting assistance"
+      ],
+      "company": "CTS Travel Recommends",
+      "location": "McKinley Business Park Bonifacio Global City, Taguig, Philippines",
+      "startDate": "Oct 2023"
+    },
+    {
+      "highlights": [
+        "Managed multiple customers while maintaining a high standard of customer service.",
+        "Responded to guest requests or complaints quickly and professionally.",
+        "Demonstrated flexibility by covering shifts in multiple departments as needed."
+      ],
+      "company": "Crown Regency Hotel",
+      "position": "Hotel Operations Assistant",
+      "location": "1026 Antonio Arnaiz Makati City, Metro Manila",
+      "startDate": "Feb 2024",
+      "endDate": "Apr 2024"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "JavaScript",
+        "C",
+        "Phyton",
+        "HTML /CSS"
+      ],
+      "name": "Languages"
+    },
+    {
+      "keywords": [
+        "React",
+        "Tailwind",
+        "Node.js",
+        "Express.js",
+        "Prisma ORM",
+        null,
+        "JWT ",
+        "Passport.js"
+      ],
+      "name": " Frameworks & Libraries"
+    },
+    {
+      "keywords": [
+        "Git ",
+        "Visual Studio Code",
+        "Chrome DevTools",
+        " GitHub ",
+        "GitHub Pages "
+      ],
+      "name": " Tools & Platforms"
+    },
+    {
+      "keywords": [
+        "REST APIs",
+        "CRUD Operations",
+        "Project planning"
+      ],
+      "name": "Concepts & Skills"
+    },
+    {
+      "keywords": [
+        "Netlify",
+        "Supabase",
+        "Render",
+        "Railway "
+      ],
+      "name": "Deployment & Hosting Platforms"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        "React",
+        "Tailwind CSS",
+        "Node.js",
+        "Express",
+        "Prisma ORM",
+        "PostgreSQL",
+        "Passport.js",
+        " JWT (JSON Web Token)"
+      ],
+      "name": "Facetome",
+      "description": "A dynamic social media platform that enables users to share content, engage with others, and build a network through interactive features like posts, likes, comments, and user following.",
+      "url": "https://facetome.netlify.app"
+    },
+    {
+      "keywords": [
+        "React",
+        "Tailwind CSS",
+        "Node.js",
+        "Express",
+        "Prisma ORM",
+        "PostgreSQL",
+        " JWT (JSON Web Token)"
+      ],
+      "name": "Messagely",
+      "description": "A full-stack messaging application that enables users to securely communicate and manage their profiles.",
+      "url": "https://messagelyy.netlify.app"
+    },
+    {
+      "keywords": [
+        "React",
+        "Tailwind CSS",
+        "Node.js",
+        "Express",
+        "Prisma ORM"
+      ],
+      "name": "Seekandspot (Where is Waldo) ",
+      "description": "A full-stack interactive game where users identify and tag specific characters or items within an image. Inspired by games like “Where’s Waldo?”, the app challenges users to find hidden elements, testing both memory and observation skills.",
+      "url": "https://seekandspot.netlify.app"
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
