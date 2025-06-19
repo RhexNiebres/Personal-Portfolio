@@ -75,11 +75,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                     <Button onClick={() => router.push("/blog")}>Blog</Button>
                   )}
                   {showResume && (
-                    <Button
-                      onClick={() =>
-                        window.open("mailto:rhexniebres@gmail.com")
-                      }
-                    >
+                    <Button onClick={() => window.open("/resume", "_blank")}>
                       Resume
                     </Button>
                   )}
@@ -100,7 +96,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   )}
                   {showResume && (
                     <Button
-                      onClick={() => router.push("/resume")}
+                      onClick={() => window.open("/resume", "_blank")}
                       classes="first:ml-1"
                     >
                       Resume
@@ -131,14 +127,14 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
         </h1>
         {!isBlog ? (
           <div className="flex">
-             <Button onClick={handleWorkScroll}>Projects</Button>
+            <Button onClick={handleWorkScroll}>Projects</Button>
             <Button onClick={handleAboutScroll}>About</Button>
             {showBlog && (
               <Button onClick={() => router.push("/blog")}>Blog</Button>
             )}
             {showResume && (
               <Button
-                onClick={() => router.push("/resume")}
+                onClick={() => window.open("/resume", "_blank")}
                 classes="first:ml-1"
               >
                 Resume
@@ -167,7 +163,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             )}
             {showResume && (
               <Button
-                onClick={() => router.push("/resume")}
+                onClick={() => window.open("/resume", "_blank")}
                 classes="first:ml-1"
               >
                 Resume
