@@ -6,7 +6,7 @@ const Resume = () => {
         src="/resume/resume.pdf"
        allowFullScreen
        title="My Resume"
-
+      
         className="border shadow-lg mb-6 w-screen h-screen"
       />
     </div>
