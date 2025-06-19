@@ -51,7 +51,7 @@
       },
       {
         "id": "3",
-        "title": "seekandspot (Where is Waldo) ",
+        "title": "Seekandspot (Where is Waldo) ",
         "description": "A Photo Tagging Game Application",
         "imageSrc": "https://res.cloudinary.com/ddbd0crv8/image/upload/v1750127974/wiw_final_qee0vv.jpg",
         "url": "https://seekandspot.netlify.app"
@@ -60,42 +60,35 @@
     [
       {
         "id": "4",
-        "title": "Facetome",
-        "description": "Social Media Web Application",
-        "imageSrc": "https://res.cloudinary.com/ddbd0crv8/image/upload/e_sharpen:50/v1750144001/f_final_owdb1c.jpg",
-        "url": "https://facetome.netlify.app"
+        "title": "Shipsea",
+        "description": "A E-commerce Cart Application",
+        "imageSrc": "https://res.cloudinary.com/ddbd0crv8/image/upload/v1750301776/shipsea_zrbui5.jpg",
+        "url": "https://shipsea.netlify.app/"
       },
       {
         "id": "5",
-        "title": "Messagely",
-        "description": "Messaging Web Application",
-        "imageSrc": "https://res.cloudinary.com/ddbd0crv8/image/upload/v1750040648/messenger_ymjirf.jpg",
-        "url": "https://messagelyy.netlify.app"
-      },
-      {
-        "id": "6",
-        "title": "seekandspot (Where is Waldo) ",
-        "description": "A Photo Tagging Game Application",
-        "imageSrc": "https://res.cloudinary.com/ddbd0crv8/image/upload/v1750127974/wiw_final_qee0vv.jpg",
-        "url": "https://seekandspot.netlify.app"
+        "title": "Pokémon Memory Quest",
+        "description": "A Memory Game Application",
+        "imageSrc": "https://res.cloudinary.com/ddbd0crv8/image/upload/v1750303353/pokemon_z5s4n2.jpg",
+        "url": "https://pokemonmemoryquest.netlify.app"
       }
     ]
   ],
   "githubCarousel": [
     {
       "id": 1,
-      "image": "/github-project-1.png",
-      "url": "https://github.com/your-username/project-1"
+      "image": "https://res.cloudinary.com/ddbd0crv8/image/upload/v1750311198/calculator_pvil4a.jpg",
+      "url": "https://github.com/RhexNiebres"
     },
     {
       "id": 2,
-      "image": "/github-project-2.png",
-      "url": "https://github.com/your-username/project-2"
+      "image": "https://res.cloudinary.com/ddbd0crv8/image/upload/v1750311218/weather_cqkyar.jpg",
+      "url": "https://github.com/RhexNiebres"
     },
     {
       "id": 3,
-      "image": "/github-project-3.png",
-      "url": "https://github.com/your-username/project-3"
+      "image": "https://res.cloudinary.com/ddbd0crv8/image/upload/v1750311198/calculator_pvil4a.jpg",
+      "url": "https://github.com/RhexNiebres"
     }
   ],
 
