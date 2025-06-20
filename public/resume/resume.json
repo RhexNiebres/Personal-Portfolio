@@ -1,0 +1,202 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "skills": "Skills",
+    "work": "Work Experience",
+    "education": "Education",
+    "projects": "Projects"
+  },
+  "basics": {
+    "email": " Github:RhexNiebres | Linkedin:rhexniebres | Email:rhexniebres@gmail.com",
+    "phone": "09308485917",
+    "name": "Rhex Christian R. Niebres",
+    "location": {
+      "address": "Phillipnes"
+    }
+  },
+  "education": [
+    {
+      "endDate": "Mar 2024",
+      "institution": "Pamantasan ng Lungsod ng Pasig",
+      "location": "Pasig, Philippines",
+      "startDate": "June 2020",
+      "studyType": "Bachelor Degree in Food industry"
+    },
+    {
+      "institution": "CS50 via edX",
+      "startDate": "Aug 2024",
+      "endDate": "Oct 2024",
+      "studyType": "CS50 is Harvard’s Introduction to Computer Science course, focusing on problem-solving, algorithms, data structures, and foundational programming.",
+      "location": "Harvard University – edX | Completed"
+    },
+    {
+      "institution": "The Odin Project ",
+      "startDate": "Nov 2024 ",
+      "endDate": "June 2025",
+      "studyType": "Focused on HTML, CSS, JavaScript, Git, React, Node.js, Express, and PostgreSQL. Built full-stack projects and followed industry-standard development practices.",
+      "location": "Online Program | Completed"
+    }
+  ],
+  "work": [
+    {
+      "position": "Operation Assistant",
+      "website": "",
+      "endDate": "Dec 2023",
+      "highlights": [
+        "Guided clients through form completion and documentation processes for new device requests, ensuring all submissions met compliance standards and processing timelines.",
+        "Maintained accurate logs of issued and returned devices to support inventory tracking and audit readiness, helping the team stay organized and prepared for reviews.",
+        "Provided front-line support by answering customer questions and helping with basic troubleshooting, asking for guidance from my supervisors to ensure I provided proper assistance to customers."
+      ],
+      "company": "CTS Travel Recommends",
+      "location": "McKinley Business Park Bonifacio Global City, Taguig, Philippines",
+      "startDate": "Oct 2023"
+    },
+    {
+      "highlights": [
+        "Managed multiple customers while maintaining a high standard of customer service, ensuring clear communication and accurate service.",
+        "Responded to guest requests and complaints quickly and professionally, asking the right staff for help when needed to provide accurate service standard.",
+        "Demonstrated flexibility by covering shifts in multiple departments, adapting to different roles and responsibilities as required."
+      ],
+      "company": "Crown Regency Hotel",
+      "position": "Hotel Operations Assistant",
+      "location": "1026 Antonio Arnaiz Makati City, Metro Manila",
+      "startDate": "Feb 2024",
+      "endDate": "Apr 2024"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "JavaScript",
+        "C",
+        "Python",
+        "HTML /CSS"
+      ],
+      "name": "Languages"
+    },
+    {
+      "keywords": [
+        "React",
+        "Tailwind CSS",
+        "Node.js",
+        "Express.js",
+        null,
+        null,
+        "JWT  ()",
+        "Passport.js"
+      ],
+      "name": " Frameworks & Libraries"
+    },
+    {
+      "keywords": [
+        "Git ",
+        "Visual Studio Code",
+        "Chrome DevTools",
+        " GitHub ",
+        "GitHub Pages "
+      ],
+      "name": " Tools & Platforms"
+    },
+    {
+      "keywords": [
+        "REST APIs",
+        "CRUD Operations",
+        "Project planning"
+      ],
+      "name": "Concepts & Skills"
+    },
+    {
+      "keywords": [
+        "Netlify",
+        "Supabase",
+        "Render",
+        "Railway "
+      ],
+      "name": "Deployment & Hosting Platforms"
+    },
+    {
+      "keywords": [
+        " Prisma (ORM)",
+        "PostgreSQL",
+        " MySQL",
+        "SQLite"
+      ],
+      "name": "Database Technologies"
+    },
+    {
+      "keywords": [
+        "Jest",
+        "Postman",
+        "Super Test"
+      ],
+      "name": "Testing Tools "
+    },
+    {
+      "keywords": [
+        "MVC Architecture",
+        "Responsive Design",
+        "Event Driven Programming",
+        null
+      ],
+      "name": "Concepts"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        "React",
+        "Tailwind CSS",
+        "Node.js",
+        "Express",
+        "Prisma ORM",
+        "PostgreSQL",
+        "Passport.js",
+        " JWT (JSON Web Token)"
+      ],
+      "name": "Facetome | Link: https://facetome.netlify.app | Tools Used:",
+      "description": "A dynamic social media platform that enables users to share content, engage with others, and build a network through interactive features like posts, likes, comments, and user following and user authentication for a personalized experience."
+    },
+    {
+      "keywords": [
+        " React",
+        "Tailwind CSS",
+        "Node.js",
+        "Express",
+        "Prisma ORM",
+        "PostgreSQL",
+        " JWT (JSON Web Token)"
+      ],
+      "name": "Messagely | Link: https://messagelyy.netlify.app | Tools Used:",
+      "description": "A full-stack messaging application that enables users to securely communicate and manage their profiles, with features user authentication, and profile customization."
+    },
+    {
+      "keywords": [
+        "React",
+        "Tailwind CSS",
+        "Node.js",
+        "Express",
+        "Prisma ORM"
+      ],
+      "name": "Seekandspot (Where is Waldo) | Link: https://seekandspot.netlify.app | Tools Used: ",
+      "description": "A full-stack interactive game where users identify and tag specific characters or items within an image. Inspired by games like “Where’s Waldo?”, the app challenges users to find hidden elements, testing both memory and observation skills, with features like timed sessions, leaderboard tracking."
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
