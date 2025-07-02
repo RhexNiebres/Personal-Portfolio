@@ -1,3 +1,8 @@
+# Hello,👋 
+# I'm Rhex Niebres
+## Full Stack Web Developer
+### based in the Philippines
+
 # Services
 
 ## Frontend Development  
