@@ -42,9 +42,9 @@
       "website": "",
       "endDate": "Present",
       "highlights": [
+        "implemented an AI-powered post generation feature, enabling users to create contextual, human-like posts instantly.",
         "Successfully completed mentorship application and  structured mentorship program focused on core software development principles. ",
-        "Trained 1-on-1 by an experienced mentor in full stack development and  developed skills in problem-solving, version control, and full stack development using tools like JavaScript, HTML, CSS, React, Node.js, Express, and Prisma.",
-        "Collaborated with mentor through guided projects, code reviews, and weekly feedback sessions to build strong foundational knowledge."
+        "Trained 1-on-1 by an experienced mentor in full stack development and  developed skills in problem-solving, version control, and full stack development using tools like JavaScript, HTML, CSS, React, Node.js, Express, and Prisma."
       ],
       "company": "Software Development (Mentorship Program) ",
       "location": "Online Program",
@@ -112,7 +112,7 @@
       "keywords": [
         "REST APIs",
         "CRUD Operations",
-        "Project planning"
+        " LLM Integration"
       ],
       "name": "Concepts & Skills"
     },
@@ -147,7 +147,7 @@
         "MVC Architecture",
         "Responsive Design",
         "Event Driven Programming",
-        null
+        " LLMs "
       ],
       "name": "Concepts"
     }
@@ -158,7 +158,7 @@
         null
       ],
       "name": "Facetome | Link:https://facetome.netlify.app",
-      "description": "A dynamic social media platform that enables users to share content, engage with others, and build a network through interactive features like posts, likes, comments, and user following and user authentication for a personalized experience. | Tools Used: React, Tailwind CSS, Node.js, Express, Prisma ORM, PostgreSQL,  JWT (JSON Web Token)"
+      "description": "A social media platform with a  AI-generated post suggestions and also enables users to share content, engage with others, and build a network through interactive features like posts, likes, comments, and user following and user authentication for a personalized experience. | Tools Used: Groq API, React, Tailwind CSS, Node.js, Express, Prisma ORM, PostgreSQL,  JWT (JSON Web Token)"
     },
     {
       "keywords": [
