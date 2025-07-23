@@ -20,18 +20,18 @@
       "institution": "The Odin Project",
       "location": "Online Program | Completed",
       "startDate": "Nov 2024",
-      "studyType": "Focused on HTML, CSS, JavaScript, Git, React, Node.js, Express, and PostgreSQL. Built full-stack projects and followed industry-standard development practices."
+      "studyType": "Focused on HTML, CSS, JavaScript, Git, React, Node.js, Express, and PostgreSQL. Built full-stack projects and followed industry-standard development practices , testing and deployment."
     },
     {
       "institution": "CS50 via edX",
       "location": "Harvard University – edX | Completed",
-      "studyType": "CS50 is Harvard’s Introduction to Computer Science course, focusing on problem-solving, algorithms, data structures, and foundational programming.",
+      "studyType": "CS50 is Harvard’s Introduction to Computer Science course, focusing on problem-solving, algorithms, data structures, foundational programming, and computational thinking and abstraction.",
       "startDate": "Aug 2024",
       "endDate": "Oct 2024"
     },
     {
       "institution": "Pamantasan ng Lungsod ng Pasig",
-      "studyType": "Bachelor Degree in Food industry",
+      "studyType": "Bachelor Degree in Food Industry focused on communication skills and high standard of customer service, teamwork, time management, adaptability, and problem-solving skills on the field.",
       "location": "Pasig, Philippines",
       "startDate": "June 2020",
       "endDate": "Mar 2024"
@@ -42,9 +42,10 @@
       "website": "",
       "endDate": "Present",
       "highlights": [
-        "Implemented an AI-powered post generation feature, allowing users to generate context-aware posts with content filtering for appropriate language.",
-        "Successfully completed mentorship application and  structured mentorship program focused on core software development principles. ",
-        "Trained 1-on-1 by an experienced mentor in full stack development and  developed skills in problem-solving, version control, and full stack development using tools like JavaScript, HTML, CSS, React, Node.js, Express, and Prisma."
+        "Implemented an AI-powered blog post generation feature, allowing users to seamlessly generate context-aware posts with intelligent content filtering for appropriate and professional language.",
+        "Successfully completed mentorship application and a structured mentorship program focused on core software development principles, real-world project experience, and collaborative environment.",
+        "Trained 1-on-1 by an experienced mentor in full stack development and developed skills in problem-solving, version control, and full stack development using tools like JavaScript, HTML, CSS, React, Node.js, Express, and Prisma, with emphasis on best practices and code readability.",
+        "Acquired hands-on experience with industry-standard software engineering practices, including version control with Git, agile development methodologies, code reviews, testing strategies, effective debugging techniques, and scalable application architecture design for modern web applications and services."
       ],
       "company": "Software Development (Mentorship Program) ",
       "location": "Online Program",
@@ -53,25 +54,13 @@
     },
     {
       "highlights": [
-        "Managed multiple customers while maintaining a high standard of customer service, ensuring clear communication and accurate service.",
-        "Demonstrated flexibility by covering shifts in multiple departments, adapting to different roles and responsibilities as required."
+        "Managed multiple customers while maintaining a high standard of customer service, ensuring clear communication, accurate service, timely issue resolution, effective teamwork, and customer satisfaction."
       ],
       "company": "Crown Regency Hotel",
       "location": "Makati City, Metro Manila Philippines",
       "position": "Hotel Operations Assistant",
       "startDate": "Feb 2024",
       "endDate": "Apr 2024"
-    },
-    {
-      "highlights": [
-        "Guided clients through form completion and documentation processes for new device requests, ensuring all submissions met compliance standards and processing timelines.",
-        "Maintained accurate logs of issued and returned devices to support inventory tracking and audit readiness, helping the team stay organized and prepared for reviews."
-      ],
-      "company": "CTS Travel Recommends ",
-      "startDate": "Oct 2023 ",
-      "endDate": "- Dec 2023",
-      "location": "McKinley Business Park Bonifacio Global City, Taguig, Philippines",
-      "position": "Operation Assistant"
     }
   ],
   "skills": [
@@ -81,7 +70,9 @@
         "JavaScript",
         "C",
         "Python",
-        "HTML /CSS"
+        "HTML ",
+        "CSS",
+        "SQL"
       ],
       "name": "Languages"
     },
@@ -91,8 +82,6 @@
         "Tailwind CSS",
         "Node.js",
         "Express.js",
-        null,
-        null,
         "JWT  ()",
         "Passport.js"
       ],
@@ -112,7 +101,8 @@
       "keywords": [
         "REST APIs",
         "CRUD Operations",
-        " LLM Integration"
+        " LLM Integration",
+        " Prompt Engineering"
       ],
       "name": "Concepts & Skills"
     },
@@ -121,33 +111,28 @@
         "Netlify",
         "Supabase",
         "Render",
-        "Railway "
+        "Railway ",
+        "Jest",
+        "Postman",
+        "Super Test"
       ],
-      "name": "Deployment & Hosting Platforms"
+      "name": " Hosting Platforms & Testing Tool "
     },
     {
       "keywords": [
         " Prisma (ORM)",
         "PostgreSQL",
         " MySQL",
-        "SQLite"
+        "SQLite",
+        "Neon(Cloud Postgres)"
       ],
       "name": "Database Technologies"
     },
     {
       "keywords": [
-        "Jest",
-        "Postman",
-        "Super Test"
-      ],
-      "name": "Testing Tools "
-    },
-    {
-      "keywords": [
         "MVC Architecture",
         "Responsive Design",
-        "Event Driven Programming",
-        " LLMs "
+        "Event Driven Programming"
       ],
       "name": "Concepts"
     }
@@ -166,6 +151,13 @@
       ],
       "name": "Messagely | Link: https://messagelyy.netlify.app ",
       "description": "A full-stack messaging application that enables users to securely communicate and manage their profiles, with features user authentication, and profile customization. | Tools Used: React, Tailwind CSS, Node.js, Express, Prisma ORM, PostgreSQL,  JWT (JSON Web Token)"
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "description": " A fun, \"Where’s Waldo\"-style game where users search for and hidden characters in a map full of characters , with timed challenges. | Tools Used: React, Tailwind CSS, Node.js, Express, Prisma ORM and PostgreSQL.",
+      "name": "Seekandspot (Where is Waldo) | Link: https://seekandspot.netlify.app/"
     }
   ],
   "awards": [
