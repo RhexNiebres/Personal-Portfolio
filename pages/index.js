@@ -60,13 +60,14 @@ export default function Home() {
 useEffect(() => {
   if (!sessionStorage.getItem("renderPinged")) {
     data.renderServers.forEach(({ server }) => {
-      const img = new Image();
-      img.src = server; 
-      console.log(`Waking Render backend: ${server}`);
+      fetch(`${server}/ping`)
+        .then(() => console.log(`Woke up: ${server}`))
+        .catch((err) => console.warn(`Failed to ping ${server}:`, err));
     });
     sessionStorage.setItem("renderPinged", "true");
   }
 }, []);
+
 
   return (
     <div className={`relative ${data.showCursor && "cursor-none"}`}>
