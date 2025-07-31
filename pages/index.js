@@ -1,4 +1,4 @@
-import { useRef, useState } from "react";
+import { useRef, useState, useEffect  } from "react";
 import Header from "../components/Header";
 import ServiceCard from "../components/ServiceCard";
 import Socials from "../components/Socials";
@@ -56,6 +56,17 @@ export default function Home() {
       { y: 0, x: 0, transform: "scale(1)" }
     );
   }, []);
+
+useEffect(() => {
+  if (!sessionStorage.getItem("renderPinged")) {
+    data.renderServers.forEach(({ server }) => {
+      const img = new Image();
+      img.src = server; 
+      console.log(`Waking Render backend: ${server}`);
+    });
+    sessionStorage.setItem("renderPinged", "true");
+  }
+}, []);
 
   return (
     <div className={`relative ${data.showCursor && "cursor-none"}`}>
