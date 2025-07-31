@@ -74,6 +74,20 @@
       }
     ]
   ],
+  "renderServers":[
+    {
+      "id": "1",
+        "server": "https://project-facetome-eg40.onrender.com"
+    },
+    {
+      "id": "2",
+        "server": "https://project-messaging-app-qbdi.onrender.com"
+    },
+    {
+      "id": "3",
+        "server": "https://project-where-s-waldo-a-photo-tagging-app-ke58.onrender.com"
+    }
+  ],
   "githubCarousel": [
     {
       "id": 1,
