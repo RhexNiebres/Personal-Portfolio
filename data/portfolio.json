@@ -74,18 +74,18 @@
       }
     ]
   ],
-  "renderServers":[
+  "renderServers": [
     {
       "id": "1",
-        "server": "https://project-facetome-eg40.onrender.com"
+      "server": "https://project-facetome-eg40.onrender.com"
     },
     {
       "id": "2",
-        "server": "https://project-messaging-app-qbdi.onrender.com"
+      "server": "https://project-messaging-app-qbdi.onrender.com"
     },
     {
       "id": "3",
-        "server": "https://project-where-s-waldo-a-photo-tagging-app-ke58.onrender.com"
+      "server": "https://project-where-s-waldo-a-photo-tagging-app-ke58.onrender.com"
     }
   ],
   "githubCarousel": [
@@ -141,9 +141,9 @@
     "education": [
       {
         "id": "1",
-        "universityName": "Bachelor Degree in Food industry",
-        "universityDate": "2020 - 2024",
-        "universityPara": "OJT experience in hotel operations, restaurant service, and travel agency support."
+        "universityName": "The Odin Project",
+        "universityDate": "Nov 2024 - June 2025",
+        "universityPara": "Focused on HTML, CSS, JavaScript, Git, React, Node.js, Express, and PostgreSQL. Built full-stack projects and followed industry-standard development practices."
       },
       {
         "id": "2",
@@ -153,9 +153,9 @@
       },
       {
         "id": "3",
-        "universityName": "The Odin Project",
-        "universityDate": "Nov 2024 - June 2025",
-        "universityPara": "Focused on HTML, CSS, JavaScript, Git, React, Node.js, Express, and PostgreSQL. Built full-stack projects and followed industry-standard development practices."
+        "universityName": "Bachelor Degree in Food industry",
+        "universityDate": "2020 - 2024",
+        "universityPara": "OJT experience in hotel operations, restaurant service, and travel agency support."
       }
     ],
     "languages": [
