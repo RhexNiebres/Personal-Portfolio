@@ -44,7 +44,7 @@
       "highlights": [
         "Implemented an AI-powered blog post generation feature, allowing users to seamlessly generate context-aware posts with intelligent content filtering for appropriate and professional language.",
         "Successfully completed mentorship application and a structured mentorship program focused on core software development principles, real-world project experience, and collaborative environment.",
-        "Trained 1-on-1 by an experienced mentor in full stack development and developed skills in problem-solving, version control, and full stack development using tools like JavaScript, HTML, CSS, React, Node.js, Express, and Prisma, with emphasis on best practices and code readability.",
+        "Trained 1-on-1 by an experienced mentor in full stack development and developed skills in problem-solving, version control, and full stack development using tools like JavaScript, C#, HTML, CSS, React, Node.js, Express, and Prisma, with emphasis on best practices and code readability.",
         "Acquired hands-on experience with industry-standard software engineering practices, including version control with Git, agile development methodologies, code reviews, testing strategies, effective debugging techniques, and scalable application architecture design for modern web applications and services."
       ],
       "company": "Software Development (Mentorship Program) ",
@@ -69,6 +69,7 @@
       "keywords": [
         "JavaScript",
         "C",
+        "C#",
         "Python",
         "HTML ",
         "CSS",
@@ -82,8 +83,7 @@
         "Tailwind CSS",
         "Node.js",
         "Express.js",
-        "JWT  ()",
-        "Passport.js"
+        "Entity Framework (EF)"
       ],
       "name": " Frameworks & Libraries"
     },
@@ -101,10 +101,10 @@
       "keywords": [
         "REST APIs",
         "CRUD Operations",
-        " LLM Integration",
-        " Prompt Engineering"
+        "LLM Integration",
+        "Prompt Engineering"
       ],
-      "name": "Concepts & Skills"
+      "name": "Skills"
     },
     {
       "keywords": [
@@ -130,11 +130,20 @@
     },
     {
       "keywords": [
-        "MVC Architecture",
         "Responsive Design",
-        "Event Driven Programming"
+        "Event-Driven Programming",
+        "Microservices"
       ],
       "name": "Concepts"
+    },
+    {
+      "keywords": [
+        "MVC Architecture",
+        " Domain-Driven Design",
+        "Clean Architecture",
+        "CQRS "
+      ],
+      "name": "Software Architecture & Design"
     }
   ],
   "projects": [
@@ -143,14 +152,14 @@
         null
       ],
       "name": "Facetome | Link:https://facetome.netlify.app",
-      "description": "A social media platform with a  AI-generated post suggestions and also enables users to share content, engage with others, and build a network through interactive features like posts, likes, comments, and user following and user authentication for a personalized experience. | Tools Used: Groq API, React, Tailwind CSS, Node.js, Express, Prisma ORM, PostgreSQL,  JWT (JSON Web Token)"
+      "description": "A social media platform with a  AI-generated post suggestions and also enables users to share content, engage with others, and build a network through interactive features like posts, likes, comments, and user following and user authentication for a personalized experience. | Tools Used: Groq API, React, Tailwind CSS, Node.js, Express, Prisma ORM, PostgreSQL,  JWT (JSON Web Token)."
     },
     {
       "keywords": [
         null
       ],
       "name": "Messagely | Link: https://messagelyy.netlify.app ",
-      "description": "A full-stack messaging application that enables users to securely communicate and manage their profiles, with features user authentication, and profile customization. | Tools Used: React, Tailwind CSS, Node.js, Express, Prisma ORM, PostgreSQL,  JWT (JSON Web Token)"
+      "description": "A full-stack messaging application that enables users to securely communicate and manage their profiles, with features user authentication, and profile customization. | Tools Used: React, Tailwind CSS, Node.js, Express, Prisma ORM, PostgreSQL,  JWT (JSON Web Token)."
     },
     {
       "keywords": [
