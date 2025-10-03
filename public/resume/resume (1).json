@@ -7,12 +7,12 @@
     "projects": "Projects"
   },
   "basics": {
-    "email": "Personal Website: rhexniebres.netlify.app | Github:RhexNiebres | Linkedin:rhexniebres | Email:rhexniebres@gmail.com",
+    "email": "Personal Website: rhexniebres.netlify.app | Github: RhexNiebres | Linkedin: rhexniebres | Email:rhexniebres@gmail.com",
     "phone": "09308485917",
-    "name": "Rhex Christian R. Niebres",
     "location": {
-      "address": "Phillipnes"
-    }
+      "address": "Philippines"
+    },
+    "name": "Rhex Christian R. Niebres"
   },
   "education": [
     {
@@ -30,11 +30,11 @@
       "endDate": "Oct 2024"
     },
     {
-      "institution": "Pamantasan ng Lungsod ng Pasig",
-      "studyType": "Bachelor Degree in Food Industry focused on communication skills and high standard of customer service, teamwork, time management, adaptability, and problem-solving skills on the field.",
+      "studyType": "Bachelor's Degree in Food Industry focused on communication skills and high standard of customer service, teamwork, time management, adaptability, and problem-solving skills on the field.",
       "location": "Pasig, Philippines",
       "startDate": "June 2020",
-      "endDate": "Mar 2024"
+      "endDate": "Mar 2024",
+      "institution": "Pamantasan ng Lungsod ng Pasig"
     }
   ],
   "work": [
@@ -114,7 +114,7 @@
         "Railway ",
         "Jest",
         "Postman",
-        "Super Test"
+        "SuperTest"
       ],
       "name": " Hosting Platforms & Testing Tool "
     },
@@ -165,8 +165,8 @@
       "keywords": [
         ""
       ],
-      "description": " A fun, \"Where’s Waldo\"-style game where users search for and hidden characters in a map full of characters , with timed challenges. | Tools Used: React, Tailwind CSS, Node.js, Express, Prisma ORM and PostgreSQL.",
-      "name": "Seekandspot (Where is Waldo) | Link: https://seekandspot.netlify.app/"
+      "description": " A fun, \"Where’s Waldo\"-style game where users search for and hidden characters in a map full of characters, with timed challenges. | Tools Used: React, Tailwind CSS, Node.js, Express, Prisma ORM and PostgreSQL.",
+      "name": "Seekandspot (Where is Waldo) | Link: https://seekandspot.netlify.app"
     }
   ],
   "awards": [
