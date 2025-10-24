@@ -30,7 +30,7 @@
       "endDate": "Oct 2024"
     },
     {
-      "studyType": "Bachelor's Degree in Food Industry focused on communication skills and high standard of customer service, teamwork, time management, adaptability, and problem-solving skills on the field.",
+      "studyType": "Bachelor's Degree in Hospitality Mangement on communication skills and high standard of customer service, teamwork, time management, adaptability, and problem-solving skills on the field.",
       "location": "Pasig, Philippines",
       "startDate": "June 2020",
       "endDate": "Mar 2024",
@@ -45,22 +45,13 @@
         "Implemented an AI-powered blog post generation feature, allowing users to seamlessly generate context-aware posts with intelligent content filtering for appropriate and professional language.",
         "Successfully completed mentorship application and a structured mentorship program focused on core software development principles, real-world project experience, and collaborative environment.",
         "Trained 1-on-1 by an experienced mentor in full stack development and developed skills in problem-solving, version control, and full stack development using tools like JavaScript, C#, HTML, CSS, React, Node.js, Express, and Prisma, with emphasis on best practices and code readability.",
-        "Acquired hands-on experience with industry-standard software engineering practices, including version control with Git, agile development methodologies, code reviews, testing strategies, effective debugging techniques, and scalable application architecture design for modern web applications and services."
+        "Acquired hands-on experience with industry-standard software engineering practices, including version control with Git, agile development methodologies, code reviews, testing strategies, effective debugging techniques, and scalable application architecture design for modern web applications and services.",
+        "Gained knowledge and applied advanced architectural concepts including Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), and Clean Architecture, as well as Knowledge with ERP systems, ETL processes, and Business Intelligence (BI) tools to build robust, maintainable, and data-driven enterprise applications."
       ],
       "company": "Software Development (Mentorship Program) ",
       "location": "Online Program",
       "startDate": "Aug 2024",
       "position": "Program Trainee"
-    },
-    {
-      "highlights": [
-        "Managed multiple customers while maintaining a high standard of customer service, ensuring clear communication, accurate service, timely issue resolution, effective teamwork, and customer satisfaction."
-      ],
-      "company": "Crown Regency Hotel",
-      "location": "Makati City, Metro Manila Philippines",
-      "position": "Hotel Operations Assistant",
-      "startDate": "Feb 2024",
-      "endDate": "Apr 2024"
     }
   ],
   "skills": [
